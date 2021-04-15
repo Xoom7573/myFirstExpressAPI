@@ -8,6 +8,6 @@ const server = app.listen(port, () => {
 
 const o = { arr: [12, 45, 12, 2, 54, 78] };
 
-app.on("/", (res, req) => {
+app.get("/", (res, req) => {
     res.send(o);
 });
