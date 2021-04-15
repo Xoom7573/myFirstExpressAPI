@@ -1,0 +1,10 @@
+[
+    {"motor":1,"rpm":100,"temp":80},
+    {"motor":1,"rpm":1300,"temp":80},
+    {"motor":1,"rpm":1200,"temp":80},
+    {"motor":1,"rpm":1,"temp":80},
+    {"motor":1,"rpm":1,"temp":80},
+    {"motor":1,"rpm":1,"temp":80},
+    {"motor":1,"rpm":1,"temp":80}
+
+]
